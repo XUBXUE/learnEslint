@@ -1,0 +1,11 @@
+{
+  "name": "learnEslint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:XUBXUE/learnEslint.git",
+  "author": "wb_xuboxue <wb_xuboxue@meituan.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.23.0"
+  }
+}
